@@ -10,4 +10,6 @@ def batch_badge_creator(attendees)
   end
   badge_messeges
 end
+
+def assign
   
