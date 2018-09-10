@@ -11,5 +11,6 @@ def batch_badge_creator(attendees)
   badge_messeges
 end
 
-def assign
+def assign_rooms(attendees)
+  
   
